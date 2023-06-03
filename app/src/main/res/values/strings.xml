@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">individual2M4</string>
+    <string name="formulario">Formulario de Registro</string>
+    <string name="nombre">Nombre (campo requerido)</string>
+    <string name="apellido">Apellido (campo requerido)</string>
+    <string name="email">Email (campo requerido)</string>
+    <string name="suscripcion">Suscribirse</string>
+
+</resources>
